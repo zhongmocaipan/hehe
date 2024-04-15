@@ -1,0 +1,2 @@
+﻿  neon.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\arm_neon.h(21,1): fatal  error C1189: #error:  This header is specific to ARM targets
